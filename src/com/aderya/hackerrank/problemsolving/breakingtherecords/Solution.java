@@ -37,7 +37,7 @@ class Result {
     }
 
 }
-//Attention: BufferedWriter was changed as "new OutputStreamWriter(System.out)" in order to test result of the case on console.
+//Attention: - Line:44 - BufferedWriter was changed as "new OutputStreamWriter(System.out)" in order to test result of the case on console.
 public class Solution {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
