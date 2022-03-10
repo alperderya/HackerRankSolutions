@@ -1,8 +1,7 @@
-package com.aderya.hackerrank.java.bigdecimal;
+package com.aderya.hackerrank.java.BigNumber.bigdecimal;
 
 import java.math.BigDecimal;
 import java.util.*;
-import java.util.stream.Stream;
 
 class Solution{
     public static void main(String []args){

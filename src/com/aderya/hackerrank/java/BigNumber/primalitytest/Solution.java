@@ -1,6 +1,4 @@
-package com.aderya.hackerrank.java.primalitytest;
-
-import org.w3c.dom.ls.LSOutput;
+package com.aderya.hackerrank.java.BigNumber.primalitytest;
 
 import java.io.BufferedReader;
 import java.io.IOException;

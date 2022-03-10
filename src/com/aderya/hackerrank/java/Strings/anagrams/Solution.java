@@ -1,4 +1,4 @@
-package com.aderya.hackerrank.java.anagrams;
+package com.aderya.hackerrank.java.Strings.anagrams;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.aderya.hackerrank.java.arraylist;
+package com.aderya.hackerrank.java.DataStructures.arraylist;
 
 import java.util.*;
 

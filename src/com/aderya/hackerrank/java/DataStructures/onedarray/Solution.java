@@ -1,4 +1,4 @@
-package com.aderya.hackerrank.java.onedarray;
+package com.aderya.hackerrank.java.DataStructures.onedarray;
 
 import java.util.*;
 

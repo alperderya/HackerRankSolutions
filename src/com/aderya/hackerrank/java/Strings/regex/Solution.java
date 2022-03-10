@@ -1,4 +1,4 @@
-package com.aderya.hackerrank.java.regex;
+package com.aderya.hackerrank.java.Strings.regex;
 
 import java.util.*;
 import java.util.regex.Matcher;
@@ -15,9 +15,7 @@ public class Solution {
         }
 
         MyRegex myRegex = new MyRegex();
-        inputList.forEach(x-> {
-            System.out.println(myRegex.isIPAddress(x));
-        });
+        inputList.forEach(x-> System.out.println(myRegex.isIPAddress(x)));
 
     }
 

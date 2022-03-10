@@ -1,4 +1,4 @@
-package com.aderya.hackerrank.java.stringtokens;
+package com.aderya.hackerrank.java.Strings.stringtokens;
 
 import java.util.*;
 

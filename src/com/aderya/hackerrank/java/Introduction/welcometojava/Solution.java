@@ -1,4 +1,4 @@
-package com.aderya.hackerrank.java.welcometojava;
+package com.aderya.hackerrank.java.Introduction.welcometojava;
 
 public class Solution {
 
