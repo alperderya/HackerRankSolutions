@@ -1,6 +1,5 @@
 package com.aderya.hackerrank.java.BigNumber.biginteger;
 
-import java.io.*;
 import java.math.BigInteger;
 import java.util.*;
 
