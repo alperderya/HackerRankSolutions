@@ -10,7 +10,7 @@ I will update ReadMe file as I send solutions.
 ##### Introduction
 - [Welcome to Java Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/Introduction/stdinandstdout1/Solution.java)
 - [java Stdin and Stdout 1 Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/Introduction/welcometojava/Solution.java)
-- ##### Strings
+##### Strings
 - [Java Anagrams Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/Strings/anagrams/Solution.java)
 - [Pattern Syntax Checker Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/Strings/patternsyntaxchecker/Solution.java)
 - [Java Regex Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/Strings/regex/Solution.java)
@@ -37,6 +37,10 @@ I will update ReadMe file as I send solutions.
 - [Inheritance II Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/ObjectOrientedProgramming/JavaInheritance2/Solution.java)
 - [Abstract Class Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/ObjectOrientedProgramming/AbstractClass/Main.java)
 - [Interface Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/ObjectOrientedProgramming/Interface/Solution.java)
+- [Method Overriding Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/ObjectOrientedProgramming/MethodOverriding/Solution.java)
+- [Method Overriding 2(Super Keyword) Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/ObjectOrientedProgramming/MethodOverriding2/Solution.java)
+- [Instanceof Keyword Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/ObjectOrientedProgramming/InstanceOfKeyword/InstanceOFTutorial.java)
+- [Iterator Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/ObjectOrientedProgramming/Iterator/Main.java)
 ##### Exception Handling
 - [Java Exception Handling Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/ExceptionHandling/exceptionhandling_/Solution.java)
 - [Java Exception Handling (Try-catch) Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/ExceptionHandling/trycatch/Solution.java)
