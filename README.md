@@ -53,7 +53,8 @@ I will update ReadMe file as I send solutions.
 - [Breaking the Records Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/breakingtherecords/Solution.java)
 - [Grading Students Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/gradingstudents/Solution.java)
 ##### Data Structures
-- [Arrays-DS Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/arrays/arraysds/Solution.java)
+- [Array-DS Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/arrays/arraysds/Solution.java)
+- [2D Array-DS Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/arrays/twodarraysds/Solution.java)
 <br>
 
 NOTE: I usually implemented the first solution I thought of. If it is thought in detail, faster and more effective solutions can be found. 
