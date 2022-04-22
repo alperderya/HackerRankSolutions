@@ -56,6 +56,10 @@ I will update ReadMe file as I send solutions.
 - [Array-DS Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/arrays/arraysds/Solution.java)
 - [2D Array-DS Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/arrays/twodarraysds/Solution.java)
 - [Sparse Arrays Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/arrays/sparsearrays/Solution.java)
+- [Tree: Inorder Traversal Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/trees/inordertraversal/Solution.java)
+- [Tree: Preorder Traversal Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/trees/preordertraversal/Solution.java)
+- [Tree: Postorder Traversal Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/trees/postordertraversal/Solution.java)
+- [Tree: Height of Binary Tree Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/trees/heightofbinarytree/Solution.java)
 <br>
 
 NOTE: I usually implemented the first solution I thought of. If it is thought in detail, faster and more effective solutions can be found. 
