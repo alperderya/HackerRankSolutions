@@ -46,6 +46,7 @@ I will update ReadMe file as I send solutions.
 - [Java Exception Handling (Try-catch) Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/ExceptionHandling/trycatch/Solution.java)
 ##### Advanced
 - [Lambda Expression Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/Advanced/LambdaExpression/Solution.java)
+- [Prime Checker Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/Advanced/PrimeChecker/Solution.java)
 
 
 <br>

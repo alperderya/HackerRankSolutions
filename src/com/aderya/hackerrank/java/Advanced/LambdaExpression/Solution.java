@@ -18,7 +18,7 @@ class MyMath {
         return input -> {
             if(input<=1) return false;
 
-            for(int i=2; i<input/2; i++){
+            for(int i=2; i<=input/2; i++){
                 if(input%i==0){
                     return false;
                 }
