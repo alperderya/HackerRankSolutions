@@ -56,6 +56,7 @@ I will update ReadMe file as I send solutions.
 - [Array-DS Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/arrays/arraysds/Solution.java)
 - [2D Array-DS Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/arrays/twodarraysds/Solution.java)
 - [Sparse Arrays Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/arrays/sparsearrays/Solution.java)
+- [Left Rotation Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/arrays/leftrotation/Solution.java)
 - [Tree: Inorder Traversal Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/trees/inordertraversal/Solution.java)
 - [Tree: Preorder Traversal Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/trees/preordertraversal/Solution.java)
 - [Tree: Postorder Traversal Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/problemsolving/dataStructures/trees/postordertraversal/Solution.java)
