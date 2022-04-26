@@ -44,6 +44,8 @@ I will update ReadMe file as I send solutions.
 ##### Exception Handling
 - [Java Exception Handling Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/ExceptionHandling/exceptionhandling_/Solution.java)
 - [Java Exception Handling (Try-catch) Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/ExceptionHandling/trycatch/Solution.java)
+##### Advanced
+- [Lambda Expression Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/Advanced/LambdaExpression/Solution.java)
 
 
 <br>
