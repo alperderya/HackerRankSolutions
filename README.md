@@ -47,6 +47,7 @@ I will update ReadMe file as I send solutions.
 ##### Advanced
 - [Lambda Expression Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/Advanced/LambdaExpression/Solution.java)
 - [Prime Checker Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/Advanced/PrimeChecker/Solution.java)
+- [Varargs - Simple Addition Problem Solution](https://github.com/alperderya/HackerRankSolutions/blob/master/src/com/aderya/hackerrank/java/Advanced/Varargs/Solution.java)
 
 
 <br>
